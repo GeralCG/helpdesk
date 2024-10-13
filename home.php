@@ -5,7 +5,7 @@
             <div class="col-sm-6">
                 <h1 class="m-0">Gerencia de Sistemas y Procesos</h1>
             </div><!-- /.col -->
-
+            git config --global user.email "geraldinec205@gmail.com" 
         </div><!-- /.row -->
         <hr c lass="border-primary">
     </div><!-- /.container-fluid -->
@@ -28,6 +28,7 @@
             <!-- /.info-box -->
         </div>
         <!-- /.col -->
+         
         <div class="col-12 col-sm-6 col-md-3">
             <div class="info-box mb-3">
                 <span class="info-box-icon bg-info elevation-1"><i class="fas fa-user"></i></span>
